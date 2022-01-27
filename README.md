@@ -1,8 +1,10 @@
-## Python Competitive Programming Team Notes
+## TeamNotes for CodingTest with Python
 
-* This repository is a python library for PS(Problem-Solving) Competition.
-* When you need an implementation of a specific algorithm, please let me know.
-* 알고리즘 대회를 위한 파이썬 (Python) 소스코드 저장소입니다.
+* 코딩테스트를 위한 파이썬 소스코드 저장소입니다.
+* 나동빈님의 팀노트를 바탕으로 제 입맛에 맞게 재구성 중입니다 :)
+* This repository is a python library for PS(Problem-Solving) Test.
+* forked from ndb796/Python-Competitive-Programming-Team-Notes
+
 
 ## Contents
 
