@@ -1,6 +1,7 @@
 from collections import deque
 
 ''' Depth First Search (DFS)
+https://youtu.be/1vLqC1rItM8?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81
 1. 탐색 시작 노드를 스택에 삽입하고 방문 처리
 2. 스택의 최상단 노드 (방금 방문한 노드)의
    방문하지 않은 인접 노드를 차례로 스택에 삽입하고 방문 처리
