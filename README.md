@@ -9,11 +9,11 @@
 * [Go](/Extra.md)
 
 ### _Data Structure_
-* [Disjoint-Set (Union-Find)](/Data%20Structure/disjoint_set.py)
+* [Disjoint-Set (Union-Find)](/DataStructure/disjoint_set.py)
 * Tree
 * Line
 * Plane
-* [Heap](/Data%20Structure/Heap.py)
+* [Heap](/DataStructure/Heap.py)
 * Queue
 * Stack
 
@@ -22,6 +22,7 @@
 * [Insertion Sort](/Sorting/insertion_sort.py)
 * [Quick Sort](/Sorting/quick_sort.py)
 * [Counting Sort](/Sorting/counting_sort.py)
+* [Heap Sort](/DataStructure/Heap.py)
 * [Python Sort Library](/Sorting/python_sort_library.py)
 
 ### _Searching_
