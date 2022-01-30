@@ -43,6 +43,9 @@
 * Tree
 * Line
 * Plane
+* [Heap](/Data%20Structure/Heap.py)
+* Queue
+* Stack
 
 ### String
 
