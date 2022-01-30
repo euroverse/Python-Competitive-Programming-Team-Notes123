@@ -1,10 +1,8 @@
 ## TeamNotes for CodingTest with Python
 
-> 코딩테스트를 위한 파이썬 소스코드 저장소입니다.
-> 나동빈님의 팀노트를 바탕으로 제 입맛에 맞게 재구성 중입니다 :)
+> 코딩테스트를 위한 파이썬 소스코드 저장소입니다. </br> 나동빈님의 팀노트를 바탕으로 제 입맛에 맞게 재구성 중입니다 :)
 >
-> This repository is a python library for PS(Problem-Solving) Test.
-> forked from ndb796/Python-Competitive-Programming-Team-Notes
+> This repository is a python library for PS(Problem-Solving) Test. </br> forked from ndb796/Python-Competitive-Programming-Team-Notes
 
 
 ### _Extra Skill_
