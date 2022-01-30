@@ -8,7 +8,8 @@
 
 ## Contents
 
-## [Extra Skill](/Extra.md)
+### Extra Skill
+* [Go](/Extra.md)
 
 ### Sorting
 
