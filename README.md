@@ -8,6 +8,8 @@
 
 ## Contents
 
+## [Extra Skill](/Extra.md)
+
 ### Sorting
 
 * [Selection Sort](/Sorting/selection_sort.py)
