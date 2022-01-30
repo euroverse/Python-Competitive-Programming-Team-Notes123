@@ -2,7 +2,7 @@ n = 5
 data = [8, 5, 4, 7, 2]
 
 ''' Quick Sort '''
-def quick_sort(start, end):
+def quick_sort1(start, end):
     if start >= end: # If the subarray size is 1, exit the function.
         return
     pivot = start # The pivot is the first element of the subarray.
