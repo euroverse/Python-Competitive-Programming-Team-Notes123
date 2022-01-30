@@ -1,44 +1,16 @@
 ## TeamNotes for CodingTest with Python
 
-* 코딩테스트를 위한 파이썬 소스코드 저장소입니다.
-* 나동빈님의 팀노트를 바탕으로 제 입맛에 맞게 재구성 중입니다 :)
-* This repository is a python library for PS(Problem-Solving) Test.
-* forked from ndb796/Python-Competitive-Programming-Team-Notes
+> 코딩테스트를 위한 파이썬 소스코드 저장소입니다.
+> 나동빈님의 팀노트를 바탕으로 제 입맛에 맞게 재구성 중입니다 :)
+>
+> This repository is a python library for PS(Problem-Solving) Test.
+> forked from ndb796/Python-Competitive-Programming-Team-Notes
 
 
-## Contents
-
-### Extra Skill
+### _Extra Skill_
 * [Go](/Extra.md)
 
-### Sorting
-
-* [Selection Sort](/Sorting/selection_sort.py)
-* [Insertion Sort](/Sorting/insertion_sort.py)
-* [Quick Sort](/Sorting/quick_sort.py)
-* [Counting Sort](/Sorting/counting_sort.py)
-* [Python Sort Library](/Sorting/python_sort_library.py)
-
-### Searching
-
-* [Binary Search](/Searching/binary_search.py)
-* [Python Binary Search Library](/Searching/python_binary_search_library.py)
-    * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
-* [DFS](/Searching/DFS.py)
-* [BFS](/Searching/BFS.py) 
-    * [Find the number of connected components](/Searching/find_the_number_of_connected_components.py)
-
-
-### Graph
-
-* [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
-* [Minimum Spanning Tree (MST)](/Graph/minimum_spanning_tree.py)
-* [Topology Sort](/Graph/topology_sort.py)
-* Floyd–Warshall algorithm
-* Bipartite Matching
-
-### Data Structure
-
+### _Data Structure_
 * [Disjoint-Set (Union-Find)](/Data%20Structure/disjoint_set.py)
 * Tree
 * Line
@@ -47,34 +19,49 @@
 * Queue
 * Stack
 
-### String
+### _Sorting_
+* [Selection Sort](/Sorting/selection_sort.py)
+* [Insertion Sort](/Sorting/insertion_sort.py)
+* [Quick Sort](/Sorting/quick_sort.py)
+* [Counting Sort](/Sorting/counting_sort.py)
+* [Python Sort Library](/Sorting/python_sort_library.py)
 
+### _Searching_
+* [Binary Search](/Searching/binary_search.py) 
+* [Python Binary Search Library](/Searching/python_binary_search_library.py) | [Example](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
+* [DFS](/Searching/DFS.py)
+* [BFS](/Searching/BFS.py) | [Example](/Searching/find_the_number_of_connected_components.py)
+
+### _Graph_
+* [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
+* [Minimum Spanning Tree (MST)](/Graph/minimum_spanning_tree.py)
+* [Topology Sort](/Graph/topology_sort.py)
+* Floyd–Warshall algorithm
+* Bipartite Matching
+
+### _String_
 * Rabin-Karp
 * KMP
 * Trie
 
-### Dynamic Programming
-
+### _Dynamic Programming_
 * Tiling Problem
 * 0-1 Knapsack Problem
 * LIS (Longest Increasing Subsequence)
 * LCS (Longest Common Subsequence)
 * Matrix Chain Multiplication
 
-### Geometry
-
+### _Geometry_
 * [Number of intersection points of two lines in 1 dimension](/Geometry/number_of_intersection_points_of_two_lines_in_1_dimension.py)
 * CCW
 * Convex Hull
 * Polygon
 
-### Probability Theory
-
+### _Probability Theory_
 * Permutation
 * Combination
 
-### Number Theory
-
+### _Number Theory_
 * [GCD (Greatest Common Divisor)](/Number%20Theory/gcd.py)
 * [LCM (Least Common Multiple)](/Number%20Theory/lcm.py)
 * [Check Prime Number](/Number%20Theory/is_prime_number.py)
@@ -82,16 +69,11 @@
 * [Prime Factorization](/Number%20Theory/prime_factorization.py)
 * Sieve of Eratosthenes
 
-### Signal Processing
-
+### _Signal Processing_
 * FFT
 
-### Miscellaneous
-
-* Two Pointers
-    * [Number of intervals whose sum is M](/Miscellaneous/number_of_intervals_whose_sum_is_M.py)
-* Interval Sum
-    * [Prefix Sum](/Miscellaneous/prefix_sum.py)
-    * [Fenwick Tree (Binary Indexed Tree)](/Miscellaneous/fenwick_tree.py)
+### _Miscellaneous_
+* Two Pointers | [Example](/Miscellaneous/number_of_intervals_whose_sum_is_M.py)
+* Interval Sum | [Example1](/Miscellaneous/prefix_sum.py) | [Example2](/Miscellaneous/fenwick_tree.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
 * Handling Recursion Limit
