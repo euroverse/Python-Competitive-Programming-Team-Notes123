@@ -37,6 +37,7 @@
 * [Topology Sort](/Graph/topology_sort.py)
 * [Floyd–Warshall](/Graph/floyd_warshall.py)
 * Bipartite Matching
+* [Kruskal Algorithm](/Graph/kruskal.py)
 
 ### _String_
 * Rabin-Karp
