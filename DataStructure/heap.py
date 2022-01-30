@@ -22,7 +22,7 @@ heapq.heapify(array)
 print(array)             # [4, 7, 5, 10, 12, 14]
 
 
-''' [Heap Sort]
+''' [ Heap Sort ]
 - heapq는 최소힙을 지원하며, 최대힙은 데이터의 부호를 바꿔 구현함.
 '''
 def heap_sort(iterable):

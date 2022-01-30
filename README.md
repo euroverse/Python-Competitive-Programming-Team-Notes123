@@ -13,7 +13,7 @@
 * Tree
 * Line
 * Plane
-* [Heap](/DataStructure/Heap.py)
+* [Heap](/DataStructure/heap.py)
 * Queue
 * Stack
 
@@ -22,7 +22,7 @@
 * [Insertion Sort](/Sorting/insertion_sort.py)
 * [Quick Sort](/Sorting/quick_sort.py)
 * [Counting Sort](/Sorting/counting_sort.py)
-* [Heap Sort](/DataStructure/Heap.py)
+* [Heap Sort](/DataStructure/heap.py)
 * [Python Sort Library](/Sorting/python_sort_library.py)
 
 ### _Searching_
@@ -35,7 +35,7 @@
 * [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
 * [Minimum Spanning Tree (MST)](/Graph/minimum_spanning_tree.py)
 * [Topology Sort](/Graph/topology_sort.py)
-* Floyd–Warshall algorithm
+* [Floyd–Warshall](/Graph/floyd_warshall.py)
 * Bipartite Matching
 
 ### _String_
