@@ -33,11 +33,11 @@
 
 ### _Graph_
 * [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
-* [Minimum Spanning Tree (MST)](/Graph/minimum_spanning_tree.py)
+* [Kruskal: Minimum Spanning Tree (MST)](/Graph/kruskal.py)
 * [Topology Sort](/Graph/topology_sort.py)
 * [Floyd–Warshall](/Graph/floyd_warshall.py)
 * Bipartite Matching
-* [Kruskal Algorithm](/Graph/kruskal.py)
+
 
 ### _String_
 * Rabin-Karp
@@ -67,7 +67,7 @@
 * [Check Prime Number](/Number%20Theory/is_prime_number.py)
 * [Find All Divisors](/Number%20Theory/find_all_divisors_of_a_number.py)
 * [Prime Factorization](/Number%20Theory/prime_factorization.py)
-* Sieve of Eratosthenes
+* [Sieve of Eratosthenes](/Number%20Theory/is_prime_number.py)
 
 ### _Signal Processing_
 * FFT

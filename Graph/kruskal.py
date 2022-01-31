@@ -43,3 +43,19 @@ for w, a, b in edges:
         result += w
 
 print(result)
+
+'''
+[Input Example 1]
+7 9
+1 2 29
+1 5 75
+2 3 35
+2 6 34
+3 4 7
+4 6 23
+4 7 13
+5 6 53
+6 7 25
+[Output Example 1]
+159
+'''

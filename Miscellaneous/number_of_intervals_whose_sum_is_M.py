@@ -1,4 +1,6 @@
-''' Find the number of intervals whose sum is M (using the two-pointer method). '''
+''' [ Find the number of intervals whose sum is M ]
+- using the two-pointer method 
+'''
 n = 5
 m = 5
 data = [1, 2, 3, 2, 5]
