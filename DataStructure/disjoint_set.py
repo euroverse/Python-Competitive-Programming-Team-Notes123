@@ -7,9 +7,16 @@
 
 # Find the root node of x recursively.
 def find_parent(parent, x):
-    if parent[x] != x:
+    if parent[x] == x:
+        return x
+    else:
         parent[x] = find_parent(parent, parent[x])
-    return parent[x]
+        return parent[x]
+
+# original version
+# def find_parent(parent, x):
+#     if parent[x] != x: parent[x] = find_parent(parent, parent[x])
+#     return parent[x]
 
 # Union the two sets.
 def union_parent(parent, a, b):
