@@ -20,14 +20,14 @@
 ### _Sorting_
 * [Selection Sort](/Sorting/selection_sort.py)
 * [Insertion Sort](/Sorting/insertion_sort.py)
-* [Quick Sort](/Sorting/quick_sort.py)
+* [Quick Sort](/Sorting/quick_sort.py) | [Advanced](/Sorting/quick_sort_2.py) 
 * [Counting Sort](/Sorting/counting_sort.py)
 * [Heap Sort](/DataStructure/heap.py)
 * [Python Sort Library](/Sorting/python_sort_library.py)
+* Merge Sort
 
 ### _Searching_
-* [Binary Search](/Searching/binary_search.py) 
-* [Python Binary Search Library](/Searching/python_binary_search_library.py) | [Example](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
+* [Binary Search](/Searching/binary_search.py) | [Bisect Library](/Searching/python_binary_search_library.py) | [Example](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
 * [DFS](/Searching/DFS.py)
 * [BFS](/Searching/BFS.py) | [Example](/Searching/find_the_number_of_connected_components.py)
 

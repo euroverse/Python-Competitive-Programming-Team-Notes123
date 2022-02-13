@@ -1,5 +1,10 @@
 from bisect import bisect_left, bisect_right
 
+''' [ Bisect Library ]
+- bisect_left(array, x) : 배열 array에 원소 x를 삽입할 가장 왼쪽 인덱스를 반환
+- bisect_right(array, x) : 배열 array에 원소 x를 삽입할 가장 오른쪽 인덱스를 반환
+'''
+
 # Locate the leftmost value exactly equal to x
 def index_of_x(a, x):
     i = bisect_left(a, x)

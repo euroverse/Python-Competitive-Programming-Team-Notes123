@@ -1,4 +1,7 @@
-''' Binary Search (Iterative Method) '''
+''' [ Binary Search (Iterative Method) ]
+- 이진 탐색 (재귀적 구현) : "정렬된" 리스트에서 범위를 좁혀가며 탐색
+- 이진 탐색 관련 파이썬 라이브러리 "python_binary_search_library.py" 참고
+'''
 def binary_search(array, target, start, end):
     while start <= end:
         mid = (start + end) // 2
