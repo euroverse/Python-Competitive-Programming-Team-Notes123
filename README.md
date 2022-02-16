@@ -10,7 +10,7 @@
 
 ### _Data Structure_
 * [Disjoint-Set (Union-Find)](/DataStructure/disjoint_set.py)
-* Tree
+* [Tree](/DataStructure/tree.py)
 * Line
 * Plane
 * [Heap](/DataStructure/heap.py)
