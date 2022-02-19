@@ -25,3 +25,9 @@ class Node:
 class BinaryTree:
     def __init__(self, root):
         self.root = root
+        
+''' 
+파이썬에서 트리 혹은 그래프는 dictionary를 이용해 구현할 수도 있다.
+'''
+graph = dict()
+graph['parent'] = ('data', 'child')
