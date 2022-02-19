@@ -17,6 +17,7 @@
 * Queue
 * Stack
 * [Hash](/DataStructure/hash.py)
+* [Set](/DataStructure/set.py)
 
 ### _Sorting_
 * [Selection Sort](/Sorting/selection_sort.py)
