@@ -28,8 +28,15 @@ def bfs(x):
         for y in graph[x]:
             if not visited[y]:
                 q.append(y)
-                visited[y] = True
+                visited[y] = True 
+'''
+큐에 넣어줄 때 방문여부를 확정하자(=최단거리를 확정한다)
+=> BFS라서 처음 넣어줄 때 확정지어도 상관 없음.
+=> 무엇보다, 한 번 넣었던게 다시 큐에 들어가는 일을 방지해줌.
 
+큐에서 꺼낼 때 방문여부를 확정하면 여러가지 변수가 생김.
+'''
+                
 n, m, start = map(int, input().split())
 graph = [[] for _ in range(n + 1)]
 for _ in range(m):
