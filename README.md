@@ -6,7 +6,8 @@
 
 
 ### _Extra Skill_
-* [Go](/Extra.md)
+* [Go](https://github.com/euroversedev/BaekJoonOJ_Python/tree/main/.CheatSheet)
+
 
 ### _Library_
 * collections
