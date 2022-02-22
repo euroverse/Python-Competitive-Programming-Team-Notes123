@@ -23,11 +23,13 @@ print(is_prime_number(7)) # True
 복 | 2. x의 배수를 모두 제거한다. 단, x는 제거하지 않음.
 '''
 N = int(input())
-array = [True]*(N+1)    # 처음엔 모든 수가 소수
+array = [False, False] + [True]*(N-1)    # 처음엔 모든 수가 소수 (0과 1은 제외)
 
-for x in range(2, int(math.sqrt(n))+1):
-    if array[x] == True:    # x가 소수인 경우 (= 처리되지 않은 수)
-        i = 2
-        while x * i <= N:   # x를 제외한 배수를 모두 제거
-            array[x*i] = False
-            i += 1
+for i in range(2, int(math.sqrt(N))+1):
+    if array[i]:    # x가 소수인 경우 (= 처리되지 않은 수)
+        for j in range(2*i, int(math.sqrt(N))+1, i): # 자기 자신을 제외한 배수는 모두 False
+            array[j] = False
+        
+
+        
+        
