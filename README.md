@@ -5,9 +5,9 @@
 > This repository is a python library for PS(Problem-Solving) Test. </br> forked from ndb796/Python-Competitive-Programming-Team-Notes
 
 
-### _Extra Skill_
-* [Go](https://github.com/euroversedev/BaekJoonOJ_Python/tree/main/.CheatSheet)
-
+### _Extra_
+* [PS REVIEW](https://github.com/euroversedev/BaekJoonOJ_Python/tree/main/.CheatSheet)
+* [REFERENCE 1](https://github.com/VSFe/Algorithm_Study)
 
 ### _Library_
 * collections
@@ -23,6 +23,7 @@
 * Stack
 * [Hash](/DataStructure/hash.py)
 * [Set](/DataStructure/set.py)
+* [Dictionary](/DataStructure/dictionary.py)
 
 ### _Sorting_
 * [Selection Sort](/Sorting/selection_sort.py)
@@ -40,7 +41,7 @@
 
 ### _Graph_
 * [Dijkstra Shortest Path](/Graph/dijkstra_shortest_path.py)
-* [Kruskal: Minimum Spanning Tree (MST)](/Graph/kruskal.py)
+* [Kruskal: Minimum Spanning Tree (MST)](/Graph/kruskal.py) | [Union & Find](/DataStructure/disjoint_set.py)
 * [Topology Sort](/Graph/topology_sort.py)
 * [Floyd–Warshall](/Graph/floyd_warshall.py)
 * Bipartite Matching
