@@ -24,6 +24,12 @@ heapq.heapify(array)
 print(array)             # [4, 7, 5, 10, 12, 14]
 
 
+# 최대, 최소 메소드 (이중 우선순위 큐에 이용됨)
+# heapq.nlargest(n, iterable[, key=None])
+big_2 = heapq.nlargest(2, array)    # [14, 12]
+small_3 = heapq.nsmallest(3, array)    # [4, 5, 7]
+print(big_2, small_3)
+
 ''' [ Heap Sort ]
 - heapq는 최소힙을 지원하며, 최대힙은 데이터의 부호를 바꿔 구현함.
 '''

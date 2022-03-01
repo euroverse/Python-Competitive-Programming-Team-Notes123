@@ -12,6 +12,7 @@
 ### _Library_
 * collections
 * [itertools](/Library/itertools.py)
+* math
 
 ### _Data Structure_
 * [Disjoint-Set (Union-Find)](/DataStructure/disjoint_set.py)
@@ -19,7 +20,7 @@
 * Line
 * Plane
 * [Heap](/DataStructure/heap.py)
-* Queue
+* [Queue](/DataStructure/deque.py)
 * Stack
 * [Hash](/DataStructure/hash.py)
 * [Set](/DataStructure/set.py)
