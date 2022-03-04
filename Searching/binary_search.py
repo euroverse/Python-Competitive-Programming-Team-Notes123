@@ -1,5 +1,8 @@
 ''' [ Binary Search (Iterative Method) ]
-- 이진 탐색 (재귀적 구현) : "정렬된" 리스트에서 범위를 좁혀가며 탐색
+- 이진 탐색은 "정렬된" 리스트에서 범위를 좁혀가며 탐색한다.
+- O(logN) 시간복잡도를 가지며, 특히 탐색범위가 매우 클 때 사용하면 유용하다.
+
+- 재귀 함수 또는 반복문으로 구현할 수 있다.
 - 이진 탐색 관련 파이썬 라이브러리 "python_binary_search_library.py" 참고
 '''
 def binary_search(array, target, start, end):

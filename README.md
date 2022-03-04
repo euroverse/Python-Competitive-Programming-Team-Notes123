@@ -21,7 +21,7 @@
 * Plane
 * [Heap](/DataStructure/heap.py)
 * [Queue](/DataStructure/deque.py)
-* Stack
+* Stack (List)
 * [Hash](/DataStructure/hash.py)
 * [Set](/DataStructure/set.py)
 * [Dictionary](/DataStructure/dictionary.py)
@@ -83,6 +83,6 @@
 
 ### _Miscellaneous_
 * Two Pointers | [Example](/Miscellaneous/number_of_intervals_whose_sum_is_M.py)
-* Interval Sum | [Example1](/Miscellaneous/prefix_sum.py) | [Example2](/Miscellaneous/fenwick_tree.py)
+* Prefix Sum & Interval Sum | [Example1](/Miscellaneous/prefix_sum.py) | [Example2](/Miscellaneous/fenwick_tree.py)
 * [Matrix Rotation](/Miscellaneous/rotate_a_matrix_by_90_degree.py)
 * Handling Recursion Limit
