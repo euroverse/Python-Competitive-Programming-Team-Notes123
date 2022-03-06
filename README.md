@@ -57,7 +57,7 @@
 * Tiling Problem
 * 0-1 Knapsack Problem
 * LIS (Longest Increasing Subsequence)
-* LCS (Longest Common Subsequence)
+* [LCS (Longest Common Subsequence)](/DynamicProgramming/LCS.py)
 * Matrix Chain Multiplication
 
 ### _Geometry_
