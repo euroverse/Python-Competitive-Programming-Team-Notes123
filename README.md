@@ -7,7 +7,8 @@
 
 ### _Extra_
 * [PS REVIEW](https://github.com/euroversedev/BaekJoonOJ_Python/tree/main/.CheatSheet)
-* [REFERENCE 1](https://github.com/VSFe/Algorithm_Study)
+* [REFERENCE 1: 깃허브 코테 정리글](https://github.com/VSFe/Algorithm_Study)
+* [REFERENCE 2: 유튜브 코테 강의](https://www.youtube.com/channel/UCHcG02L6TSS-StkSbqVy6Fg/playlists?view=50&sort=dd&shelf_id=1)
 
 ### _Library_
 * collections
@@ -49,8 +50,8 @@
 
 
 ### _String_
-* Rabin-Karp
-* KMP
+* [Rabin-Karp(Rolling-Hash)](/String/Rabin-Karp.py)
+* [KMP](/String/KMP.py)
 * Trie
 
 ### _Dynamic Programming_
