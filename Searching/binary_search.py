@@ -28,3 +28,20 @@ if result == None:
     print(None)
 else:
     print(result + 1)
+    
+''' 아래는 반복문을 이용한 일반적인 형태의 이진탐색 '''
+answer = 0
+start, end = 0, 10**9
+while start <= end:
+    mid = (start+end)//2
+    
+    # 조건문이 True인 경우
+    if condition():
+        answer = mid    # 조건문에 부합하는 값은 미리 저장해둠.
+        start = mid +1
+    
+    # 조건문이 False인 경우
+    else:
+        end = mid -1
+
+print(answer)
