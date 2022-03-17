@@ -81,6 +81,9 @@
 ### _Signal Processing_
 * FFT
 
+### _Math_
+* [Combination with Repetition](/Math/Combination_with_Repetition.py)
+
 ### _Miscellaneous_
 * Two Pointers | [Example](/Miscellaneous/number_of_intervals_whose_sum_is_M.py)
 * Prefix Sum & Interval Sum | [Example1](/Miscellaneous/prefix_sum.py) | [Example2](/Miscellaneous/fenwick_tree.py)
