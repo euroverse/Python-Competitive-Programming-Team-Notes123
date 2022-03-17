@@ -11,7 +11,7 @@
 * [REFERENCE 2: 유튜브 코테 강의](https://www.youtube.com/channel/UCHcG02L6TSS-StkSbqVy6Fg/playlists?view=50&sort=dd&shelf_id=1)
 
 ### _Library_
-* collections(/Library/collections.py)
+* [collections](/Library/collections.py)
 * [itertools](/Library/itertools.py)
 * math
 
