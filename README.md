@@ -51,7 +51,7 @@
 ### _String_
 * [Rabin-Karp(Rolling-Hash)](/String/Rabin-Karp.py)
 * [KMP](/String/KMP.py)
-* Trie
+* [Trie](/String/Trie.py)
 
 ### _Dynamic Programming_
 * Tiling Problem
