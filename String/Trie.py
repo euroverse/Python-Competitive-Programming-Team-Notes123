@@ -2,6 +2,8 @@
 - 트라이 : 문자열을 저장 & 탐색하기 위해 사용되는 Search Tree의 일종.
 - 입력된 단어를 저장|탐색하는 시간복잡도는 O(m)이다. 이때, m은 입력된 단어의 길이이다.
 
+★ 시간복잡도가 좋지만, 해시(dict)만큼 빠르지는 않다.
+   문제 상황에 적절하게 사용하자.
 
 - 다음 글자를 가리키는 방법에 따라 구현 방법이 다르다.
     1. 해시(dict)를 이용한 방법 (아래 코드)
@@ -29,7 +31,7 @@ class Trie:
         for ch in word:
             
             # ch에 해당하는 링크가 없으면 만들어줌
-            if node.links.get(ch, -1) == -1:    
+            if ch not in node.links:
                 node.links[ch] = TrieNode(ch)
             
             # ch에 해당하는 링크로 이동
@@ -60,9 +62,9 @@ trie = Trie()
 trie.insert("baby")
 trie.insert("ball")
 
-print(trie.search("baby"))
-print(trie.search("ball"))
-print(trie.search("bake"))
+print(trie.search("baby"))    # True
+print(trie.search("ball"))    # True
+print(trie.search("bake"))    # False
         
         
         
