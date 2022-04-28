@@ -22,10 +22,12 @@
 * Plane
 * [Heap](/DataStructure/heap.py)
 * [Queue](/DataStructure/deque.py)
-* Stack (List)
+* Stack (=List)
 * [Hash](/DataStructure/hash.py)
 * [Set](/DataStructure/set.py)
 * [Dictionary](/DataStructure/dictionary.py)
+* [Named Tuple](/DataStructure/named_tuple.py)
+* [Dataclass](/DataStructure/dataclass.py)
 
 ### _Sorting_
 * [Selection Sort](/Sorting/selection_sort.py)
